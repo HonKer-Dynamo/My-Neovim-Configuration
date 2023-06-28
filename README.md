@@ -1,2 +1,2 @@
-# My-Neovim-Configuration
-My-Neovim-Configuration
+# My-Neovim-Configuration-for-linux
+My-Neovim-Configuration  for linux
